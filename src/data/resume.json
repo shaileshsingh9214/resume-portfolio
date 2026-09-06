@@ -1,0 +1,82 @@
+{
+  "name": "Shailesh Singh",
+  "title": "Technology Lead",
+  "contact": {
+    "address": "Dubai, UAE",
+    "phone": "+971-542375355",
+    "email": "shailesh.h.singh7@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shailesh-h-singh/",
+    "website": "https://stackoverflow.com/users/3017390/thinktank"
+  },
+  "summary": "Seasoned Software Engineer with 11+ years of experience in JAVA and related frameworks Springboot and NodeJS Express and different Monolith to distributed microservices same on UI side from monolith to micro-frontend. I have worked in multiple domains BFSI, Telecom, Education, Testing etc. AI first mindset for troubleshoot and brainstorming.",
+  "skills": {
+    "testing": ["Junit", "Mockito", "Playwright"],
+    "languages": ["Java", "Javascript", "Typescript", "Python", "Node JS"],
+    "databases": ["MsSQL", "Mysql", "MongoDB", "PostgreSQL", "IBM DB2"],
+    "messaging": ["Kafka", "RabbitMQ"],
+    "monitoring": ["Grafana", "Prometheus"],
+    "devops": ["Docker", "Open-shift"],
+    "frontend": ["React", "Jquery", "Angular CLI"]
+  },
+  "languages": ["English", "Hindi", "Marathi"],
+  "experience": [
+    {
+      "period": "2022-12 - Current",
+      "role": "Technology Lead",
+      "company": "Synechron LLC, Dubai UAE",
+      "companyUrl": "https://www.synechron.com",
+      "description": "Led cross-functional teams to successfully deliver complex technology projects within agreed time. Provided mentorship to junior team members for BFSI project, and cross skilled myself to Node JS and react. Integrated JMBR, Emirates Post, Cars 24 loan system and Wbedge, WbCDD, Customer Portal, 4x Precious Metals."
+    },
+    {
+      "period": "2020-10 - 2022-12",
+      "role": "Senior Consultant",
+      "company": "Synechron Technologies, Mumbai, India",
+      "companyUrl": "https://www.synechron.com",
+      "description": "Built strong relationships with clients through consistent communication and proactive problem-solving efforts transformed all perl jobs to python. Created Regulatory Reporting from predefined templates for EMEEA APAC and NA regions."
+    },
+    {
+      "period": "2019-01 - 2022-09",
+      "role": "Senior Software Engineer",
+      "company": "OptimizeQ, Mumbai",
+      "companyUrl": "https://www.optimizeq.com",
+      "description": "Contributed valuable insights during product planning sessions, aligning technical strategy with business objectives. Collaborated with cross-functional teams to design innovative software solutions."
+    },
+    {
+      "period": "2016-05 - 2019-01",
+      "role": "Software Engineer",
+      "company": "5 ElementsHr Assesshub, Mumbai",
+      "companyUrl": "https://www.assesshub.com",
+      "description": "Consistently met project deadlines by effectively managing time and prioritizing tasks according to importance. Started Load testing and upgraded monolith webapp in production environment in short span."
+    },
+    {
+      "period": "2015-05 - 2016-05",
+      "role": "Software Engineer",
+      "company": "Avhan Technologies, Mumbai",
+      "companyUrl": "https://www.avhan.com/",
+      "description": "Collaborated with backend microservices teams to deliver high-quality software product for maintenance and monitor other product."
+    }
+  ],
+  "education": [
+    {
+      "period": "2012-06 - 2014-07",
+      "degree": "Master of Science: Information Technology",
+      "institution": "Kirti College - Mumbai",
+      "institutionUrl": "https://www.kirticollege.ac.in",
+      "details": "5.5 GPA. Completed professional development in Java."
+    },
+    {
+      "period": "2009-06 - 2012-06",
+      "degree": "Bachelor of Science: Computer Science And Programming",
+      "institution": "Rizvi College - Mumbai",
+      "institutionUrl": "https://www.rizvicollege.ac.in",
+      "details": "5.8 GPA. Completed professional development in JavaScript."
+    }
+  ],
+  "accomplishments": [
+    "Integrated with JMBR and Emirates Post and Cars24 and ADX and DFM in Bawaba Corporate.",
+    "WbEdge, Customer Portal (NTB, ETB), WbCDD, 4x Precious Metals",
+    "Migrated all perl script to python to new CentOS 7/RedHat 7 based server.",
+    "Collaborated with team of 5 in the UI development of OptimizeQ and led it.",
+    "Onboarded a client with new report and tests by completing in 45 days with accuracy and efficiency in Assesshub."
+  ]
+}
