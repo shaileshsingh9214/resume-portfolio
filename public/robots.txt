@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shailesh-portfolio.vercel.app/sitemap.xml
