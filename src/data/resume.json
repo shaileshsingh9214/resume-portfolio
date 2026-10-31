@@ -8,7 +8,7 @@
     "linkedin": "https://www.linkedin.com/in/shailesh-h-singh/",
     "website": "https://stackoverflow.com/users/3017390/thinktank"
   },
-  "summary": "Seasoned Software Engineer with 11+ years of experience in JAVA and related frameworks Springboot and NodeJS Express and different Monolith to distributed microservices same on UI side from monolith to micro-frontend. I have worked in multiple domains BFSI, Telecom, Education, Testing etc. AI first mindset for troubleshoot and brainstorming.",
+  "summary": "Seasoned Technology Lead with 11+ years of experience in Java, Spring Boot, and Node.js. Proven expertise in architecting and migrating monolithic applications to distributed microservices and micro-frontend architectures. Domain experience spans BFSI, Telecom, Education, and Testing. Possesses an AI-first mindset for troubleshooting, brainstorming, and driving technical innovation.",
   "skills": {
     "testing": [
       "Junit",
@@ -58,35 +58,35 @@
       "role": "Technology Lead",
       "company": "Synechron LLC, Dubai UAE",
       "companyUrl": "https://www.synechron.com",
-      "description": "Led cross-functional teams to successfully deliver complex technology projects within agreed time. Provided mentorship to junior team members for BFSI project, and cross skilled myself to Node JS and react. Integrated JMBR, Emirates Post, Cars 24 loan system and Wbedge, WbCDD, Customer Portal, 4x Precious Metals, and MacroHedge application."
+      "description": "Led cross-functional teams to deliver complex BFSI technology projects on schedule. Mentored junior developers and expanded technical stack by mastering Node.js and React. Spearheaded the integration of multiple critical systems, including JMBR, Emirates Post, Cars24 loan system, WbEdge, WbCDD, Customer Portal, 4x Precious Metals, and the MacroHedge application."
     },
     {
       "period": "2020-10 - 2022-12",
       "role": "Senior Consultant",
       "company": "Synechron Technologies, Mumbai, India",
       "companyUrl": "https://www.synechron.com",
-      "description": "Built strong relationships with clients through consistent communication and proactive problem-solving efforts transformed all perl jobs to python. Created Regulatory Reporting from predefined templates for EMEEA APAC and NA regions."
+      "description": "Cultivated strong client relationships through proactive communication and problem-solving. Modernized legacy infrastructure by migrating all Perl batch jobs to Python. Engineered regulatory reporting solutions based on predefined templates for EMEA, APAC, and NA regions."
     },
     {
       "period": "2019-01 - 2022-09",
       "role": "Senior Software Engineer",
       "company": "OptimizeQ, Mumbai",
       "companyUrl": "https://www.optimizeq.com",
-      "description": "Contributed valuable insights during product planning sessions, aligning technical strategy with business objectives. Collaborated with cross-functional teams to design innovative software solutions."
+      "description": "Drove technical strategy during product planning sessions, ensuring alignment with overarching business objectives. Collaborated with cross-functional teams to architect and design innovative software solutions."
     },
     {
       "period": "2016-05 - 2019-01",
       "role": "Software Engineer",
       "company": "5 ElementsHr Assesshub, Mumbai",
       "companyUrl": "https://www.assesshub.com",
-      "description": "Consistently met project deadlines by effectively managing time and prioritizing tasks according to importance. Started Load testing and upgraded monolith webapp in production environment in short span."
+      "description": "Consistently delivered projects ahead of schedule through effective prioritization and resource management. Initiated and executed load testing protocols, successfully upgrading a monolithic web application in the production environment within a tight timeframe."
     },
     {
       "period": "2015-05 - 2016-05",
       "role": "Software Engineer",
       "company": "Avhan Technologies, Mumbai",
       "companyUrl": "https://www.avhan.com/",
-      "description": "Collaborated with backend microservices teams to deliver high-quality software product for maintenance and monitor other product."
+      "description": "Collaborated with backend microservices teams to deliver high-quality, maintainable software products and implemented robust monitoring solutions across the product suite."
     }
   ],
   "education": [
@@ -106,10 +106,10 @@
     }
   ],
   "accomplishments": [
-    "Integrated with JMBR and Emirates Post and Cars24 and ADX and DFM in Bawaba Corporate.",
-    "WbEdge, Customer Portal (NTB, ETB), WbCDD, 4x Precious Metals",
-    "Migrated all perl script to python to new CentOS 7/RedHat 7 based server.",
-    "Collaborated with team of 5 in the UI development of OptimizeQ and led it.",
-    "Onboarded a client with new report and tests by completing in 45 days with accuracy and efficiency in Assesshub."
+    "Successfully integrated JMBR, Emirates Post, Cars24, ADX, and DFM into the Bawaba Corporate platform.",
+    "Delivered key enterprise systems including WbEdge, Customer Portal (NTB, ETB), WbCDD, and 4x Precious Metals.",
+    "Modernized infrastructure by migrating all legacy Perl scripts to Python on CentOS 7/RedHat 7 servers.",
+    "Led a 5-member frontend team in the UI development and successful delivery of OptimizeQ.",
+    "Successfully onboarded a major client at Assesshub, delivering new reporting modules and testing frameworks within an accelerated 45-day timeline."
   ]
 }
