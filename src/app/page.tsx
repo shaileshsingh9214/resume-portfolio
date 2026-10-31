@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     url: 'https://shailesh-portfolio.vercel.app', // Replace with actual domain
   },
   other: {
-    'commit-id': 'fa0a592b6e0b2a039ef71931bf2af3b9affb730f'
+    'commit-id': 'c2200abba898e44bfb8209f10295575612e3a15c'
   },
   twitter: {
     card: 'summary_large_image',
