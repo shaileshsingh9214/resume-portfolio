@@ -10,22 +10,55 @@
   },
   "summary": "Seasoned Software Engineer with 11+ years of experience in JAVA and related frameworks Springboot and NodeJS Express and different Monolith to distributed microservices same on UI side from monolith to micro-frontend. I have worked in multiple domains BFSI, Telecom, Education, Testing etc. AI first mindset for troubleshoot and brainstorming.",
   "skills": {
-    "testing": ["Junit", "Mockito", "Playwright"],
-    "languages": ["Java", "Javascript", "Typescript", "Python", "Node JS"],
-    "databases": ["MsSQL", "Mysql", "MongoDB", "PostgreSQL", "IBM DB2"],
-    "messaging": ["Kafka", "RabbitMQ"],
-    "monitoring": ["Grafana", "Prometheus"],
-    "devops": ["Docker", "Open-shift"],
-    "frontend": ["React", "Jquery", "Angular CLI"]
+    "testing": [
+      "Junit",
+      "Mockito",
+      "Playwright"
+    ],
+    "languages": [
+      "Java",
+      "Javascript",
+      "Typescript",
+      "Python",
+      "Node JS"
+    ],
+    "databases": [
+      "MsSQL",
+      "Mysql",
+      "MongoDB",
+      "PostgreSQL",
+      "IBM DB2"
+    ],
+    "messaging": [
+      "Kafka",
+      "RabbitMQ"
+    ],
+    "monitoring": [
+      "Grafana",
+      "Prometheus"
+    ],
+    "devops": [
+      "Docker",
+      "Open-shift"
+    ],
+    "frontend": [
+      "React",
+      "Jquery",
+      "Angular CLI"
+    ]
   },
-  "languages": ["English", "Hindi", "Marathi"],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
   "experience": [
     {
       "period": "2022-12 - Current",
       "role": "Technology Lead",
       "company": "Synechron LLC, Dubai UAE",
       "companyUrl": "https://www.synechron.com",
-      "description": "Led cross-functional teams to successfully deliver complex technology projects within agreed time. Provided mentorship to junior team members for BFSI project, and cross skilled myself to Node JS and react. Integrated JMBR, Emirates Post, Cars 24 loan system and Wbedge, WbCDD, Customer Portal, 4x Precious Metals."
+      "description": "Led cross-functional teams to successfully deliver complex technology projects within agreed time. Provided mentorship to junior team members for BFSI project, and cross skilled myself to Node JS and react. Integrated JMBR, Emirates Post, Cars 24 loan system and Wbedge, WbCDD, Customer Portal, 4x Precious Metals., MacroHedge application."
     },
     {
       "period": "2020-10 - 2022-12",
