@@ -18,6 +18,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://shailesh-portfolio.vercel.app', // Replace with actual domain
   },
+  other: {
+    'commit-id': 'b385866338bd541d81fd3e22c658254ba775f459'
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Shailesh Singh | Technology Lead',
